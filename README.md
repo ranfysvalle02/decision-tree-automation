@@ -2,7 +2,7 @@
 
 ---
 
-# Automating Decisions: Bridging Workflows, Agents, and Human Thought  
+# Bridging Workflows, Agents, and Human Thought  
    
 Have you ever wondered how the human mind makes decisions so effortlessly? When you step outside and decide whether to carry an umbrella, you're processing information, evaluating conditions, and arriving at a conclusion—all in a matter of seconds.  
    
