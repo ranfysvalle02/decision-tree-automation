@@ -1,5 +1,7 @@
 # decision-tree-automation
 
+![](https://www.portotheme.com/wp-content/uploads/2024/08/image2-1.png)
+
 ---
 
 # Bridging Workflows, Agents, and Human Thought  
