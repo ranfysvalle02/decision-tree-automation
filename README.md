@@ -1,6 +1,6 @@
 # decision-tree-automation
 
-![](https://www.portotheme.com/wp-content/uploads/2024/08/image2-1.png)
+![](https://cdn.prod.website-files.com/5e8bd2ab8e48e69429cb4fd8/61394c37c8e507151a368d31_workflow-process.jpg)
 
 ---
 
