@@ -41,7 +41,9 @@ This decision-making flowchart is something we navigate subconsciously, yet it's
 ---  
    
 ## Agents and Workflows: Mimicking the Mind  
-   
+
+![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25c197ac-0691-44d9-a15b-a76ab4fc7da3_1958x1042.gif)
+
 ### What Is an Agent?  
    
 In programming, an **agent** is an autonomous entity that can perceive its environment, process inputs, and act to achieve specific goals. Think of it as a virtual decision-maker that follows a set of instructions to perform tasks.  
