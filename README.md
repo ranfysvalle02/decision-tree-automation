@@ -19,7 +19,9 @@ At its heart, decision-making involves three core steps:
 1. **Gathering Information**: We perceive inputs from our environment.  
 2. **Processing Data**: We evaluate conditions based on knowledge and experience.  
 3. **Arriving at a Conclusion**: We decide on the best course of action.  
-   
+
+![](https://media.geeksforgeeks.org/wp-content/uploads/20230502171656/Decision-making-copy.webp)
+
 For humans, this process is influenced by intuition, emotions, and past experiences. In programming, we emulate this by writing algorithms that process inputs, evaluate conditions, and output decisions.  
    
 ### A Real-World Example  
