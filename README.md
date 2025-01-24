@@ -44,7 +44,7 @@ This decision-making flowchart is something we navigate subconsciously, yet it's
 
 ![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25c197ac-0691-44d9-a15b-a76ab4fc7da3_1958x1042.gif)
 
-### What Is an Agent?  
+### What Is an [Agent](https://github.com/ranfysvalle02/vanilla-agents)?  
    
 In programming, an **agent** is an autonomous entity that can perceive its environment, process inputs, and act to achieve specific goals. Think of it as a virtual decision-maker that follows a set of instructions to perform tasks.  
    
@@ -185,3 +185,6 @@ Understanding the parallels with human thought underscores the importance of emb
 By bridging the gap between computational models and human cognition, we open up exciting possibilities for innovation and insight. As we continue to explore these connections, we not only enhance our technological capabilities but also gain a deeper understanding of the human experience.  
    
 Happy coding!
+
+---
+
